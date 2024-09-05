@@ -1,3 +1,3 @@
 # dashboard_streamlit
-#Projeto feito no streamlit contedno um dashboard
-#Desenvolvido a parti do curso "Streamlit: construindo um dashboard interativo" da plataforma Alura
+Projeto feito no streamlit contendo um dashboard
+Desenvolvido a partir do curso "Streamlit: construindo um dashboard interativo" da plataforma Alura
